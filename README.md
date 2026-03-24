@@ -29,7 +29,7 @@ amazon-homepage-clone
 <br/>
 │── index.html  
 │── style.css  
-│── images/  
+│── images 
 
 ---
 
@@ -50,5 +50,5 @@ This project is for educational purposes only and is not affiliated with Amazon.
 
 ## 👨‍💻 Author
 
-Your Name  
+Your Name : Manpreet Sodhi
 GitHub: https://github.com/manpreetsodhi06  
